@@ -1,6 +1,8 @@
-# Hi, I'm Vikas Jain 👋
-
-## Senior WordPress & Web Solutions Developer
+<p align="center">
+  <img src="https://github.com/vikasjainwmd/vikasjainwmd/blob/main/banner.png" />
+</p>
+<h1 align="center">Hi, I'm Vikas Jain 👋</h1>
+<h3 align="center">Senior WordPress & Web Solutions Developer</h3>
 
 I’m a professional web developer with 15+ years of experience building custom websites using WordPress, WooCommerce stores, business portals, and scalable web applications for international clients.
 
