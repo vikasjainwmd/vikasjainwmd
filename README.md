@@ -59,7 +59,7 @@ I’m a professional web developer with 15+ years of experience building custom 
 ## 📫 Connect With Me
 
 🌐 Website: https://webmasterdriver.net  
-💼 LinkedIn: https://linkedin.com/in/webmasterdriver  
+💼 LinkedIn: https://www.linkedin.com/in/vikasjainwmd/
 📧 ThemeForest: https://themeforest.net/user/webmasterdriver/portfolio
 
 ---
